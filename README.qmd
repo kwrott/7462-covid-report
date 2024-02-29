@@ -15,7 +15,7 @@ Report last run: `r Sys.time()`
 
 This is an example report that uses COVID-19 data from the New York Times to illustrate the use of automation processes.
 
-This is me, Kollin, editing this file for the activity.
+This is me, Kollin, editing this file for the activity. We want it to appear in the GitHub Actions tab.
 
 First, we load some necessary libraries, define some key variables, then read in the data:
 
